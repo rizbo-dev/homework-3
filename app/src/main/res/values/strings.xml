@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Projekat_3_Boris_Evetovic</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="prvih_est_cifara_mobilnog_broja">Prvih šest cifara mobilnog broja</string>
+    <string name="_06012345678">06012345678</string>
+    <string name="visoka_tehni_ka_kola_struk_studija_subotica">Visoka tehnička škola struk.studija Subotica</string>
+    <string name="srednja_tehni_ka_kola_ivan_sari">Srednja tehnička škola \'Ivan Sarić\'</string>
+    <string name="osnovna_kola_kizur_i_tvan">Osnovna škola \'Kizur Ištvan\'</string>
+    <string name="velebitsko_jezero">Velebitsko jezero</string>
+    <string name="treci_projekat">TRECI PROJEKAT</string>
+    <string name="visa_skola">Visa skola:</string>
+    <string name="moja_omiljena_veb_stranica">Moja omiljena veb stranica</string>
+    <string name="kod_operatera_mobilne_telefonije">Kod operatera mobilne telefonije:</string>
+    <string name="inicijali">Inicijali:</string>
+</resources>
